@@ -1,4 +1,4 @@
-# 
+
 ## 3. Gerenciamento de Dispositivos
 ---
 
@@ -9,9 +9,9 @@ Refere-se à administração e monitoramento de disposivos movéis de uma organi
 - Proteção de dados;
 - Solucões de problemas;
 - Otimizações de uso, como conexões e uso de apps expecíficos.
-![Gerenciamento de Dispositivos](https://i.pinimg.com/736x/a8/52/52/a852524ed68c55be4903bdfe0fb2e41a.jpg|100) 
+![Gerenciamento de Dispositivos](https://i.pinimg.com/736x/a8/52/52/a852524ed68c55be4903bdfe0fb2e41a.jpg) 
 Para saber mais acesse: 
-[Navita](https://navita.com.br/servicos/mdm-mobile-device-management-gerenciador-de-dispositivos/?utm_source=Google&utm_medium=cpc&utm_campaign=%5BS%5D+Gest%C3%A3o+de+Dispositivos+-+MDM&utm_content=pesquisaMDM&gclid=Cj0KCQjwoZbBBhDCARIsAOqMEZU9GvwjGHzC9-J2oJAeZhs6GoYMDDybeIfP3Ymwb9jkMxEjSj9IGIcaAmGAEALw_wcB&gad_source=1&gad_campaignid=17353430121&gbraid=0AAAAAC9-ZVtP8CJSWX0tx_wP8mpwILrL4)
+[Microsoft Intune](https://learn.microsoft.com/pt-br/intune/intune-service/fundamentals/what-is-device-management)
 
 
 ### 3.1. Como o SO se comunica com impressoras, HDs, mouses etc.
